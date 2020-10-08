@@ -1,0 +1,14 @@
+# Meta de Inscritos
+print('Vamos ver como esta nossa meta de inscritos!'  )
+
+meta = 2000
+inscritos = int (input ('Quantos inscritos temos?  '))
+
+meta_calculada = meta - inscritos
+
+if inscritos >= meta:
+  print('Meta Batida! Vem ni mim Bonus xD ')
+
+else: 
+  print('Logo logo bate xD so falta', meta_calculada  )
+   
