@@ -1,2 +1,2 @@
-# JORNADABYLEARNPYTHONFAIXAPRETA
-JORNADA BYLEARN
+# BylearnJornadaPythonFaixaPreta
+meu primeiro codigo python
